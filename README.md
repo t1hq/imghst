@@ -1,2 +1,3 @@
 # imghst
-my images backup
+my blog images backup
+blog: tricks.one
